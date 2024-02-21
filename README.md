@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nguyen Hai Dang
+- 🌱 I’m a fresher in Mobile Application Development
+- ✉️ My contact email: nhdang29.it@gmail.com
